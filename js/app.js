@@ -29,7 +29,7 @@ const cleanSet = [
   [' ', ' ', ' '],
   [' ', ' ', ' ']
 ]
-var tic_tac_toe = cleanSet;
+let tic_tac_toe = cleanSet;
 console.log(tic_tac_toe)
 
 
