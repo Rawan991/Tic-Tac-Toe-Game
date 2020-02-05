@@ -7,6 +7,7 @@ It's an interactive game consists of two persons played on square form of 9 cell
 ```python
 - 'HTML', 'css', 'Js'
 - 'JavaScript' and 'DOM' , 'jQuery'
+- 'Bootstrap'
 - 'GitHub' 
 ```
 
@@ -33,7 +34,7 @@ Initially in writing the first steps in the js code to verify the win or draw, t
 
 
 
-### solved for the winner
+### how solve for the winner
 * at the beginning the first player will be have X sign.
 * then the game will be exchanged between X and O.
 * the player will put x or o in square form. 
@@ -45,23 +46,4 @@ Initially in writing the first steps in the js code to verify the win or draw, t
 
 ### favorite functions work
 - Part of put x and o on the square form.
-- Part of validation of the winner.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- part of Bootstrap
